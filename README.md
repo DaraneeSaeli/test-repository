@@ -1,3 +1,3 @@
 # My very first repo
 
-Chicken nuggies
+Chicken nuggies are very good
